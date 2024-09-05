@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Dropout
+comment1.params=enrollmentID\ dateOfBirth\ tutionFee\ courseDuration\ studentName\ numOfRemainingModules\ numOfMonthsAttended\ dateOfDropout
+comment1.target=Dropout(int,\ java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNumOfRemainingModules()
+comment3.params=
+comment3.target=int\ getNumOfMonthsAttended()
+comment4.params=
+comment4.target=java.lang.String\ getDateOfDropout()
+comment5.params=
+comment5.target=int\ getRemainingAmount()
+comment6.params=
+comment6.target=boolean\ getHasPaid()
+comment7.params=numOfMonthsAttended
+comment7.target=void\ billsPayable(int)
+comment8.params=
+comment8.target=void\ removeStudent()
+comment9.params=
+comment9.target=void\ display()
+numComments=10
